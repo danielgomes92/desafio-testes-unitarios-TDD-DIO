@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio-testes-unitarios-TDD-DIO", "desafio-testes-unitarios-TDD-DIO.csproj", "{75B37E3A-0044-41EF-859F-62287886AD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste-desafio-testes-unitarios-TDD-DIO", "..\teste-desafio-testes-unitarios-TDD-DIO\teste-desafio-testes-unitarios-TDD-DIO.csproj", "{32E236A0-529C-4572-8178-3B4CAFAEE9CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B37E3A-0044-41EF-859F-62287886AD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B37E3A-0044-41EF-859F-62287886AD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B37E3A-0044-41EF-859F-62287886AD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B37E3A-0044-41EF-859F-62287886AD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E236A0-529C-4572-8178-3B4CAFAEE9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E236A0-529C-4572-8178-3B4CAFAEE9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E236A0-529C-4572-8178-3B4CAFAEE9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E236A0-529C-4572-8178-3B4CAFAEE9CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81712ACE-1694-4A41-A3C3-ED0BA2A4CFC9}
+	EndGlobalSection
+EndGlobal
